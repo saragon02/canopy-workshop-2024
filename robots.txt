@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://saragon02.github.io/canopy-workshop-2024
+
+# Sitemaps
+Sitemap: https://saragon02.github.io/canopy-workshop-2024/sitemap.xml
